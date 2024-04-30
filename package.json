@@ -1,0 +1,16 @@
+{
+  "name": "crop-resource",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "turbo run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wenxiuweiye",
+  "license": "MIT",
+  "devDependencies": {
+    "turbo": "^1.13.3"
+  }
+}
